@@ -8,11 +8,13 @@ You can click the Preview link to take a look at your changes.
 I'm a full-stack developer who works primarily with TypeScript to craft clean, premium user experiences — both on the front-end and behind the scenes.  
 I enjoy building polished interfaces and web applications that feel good to use.
 
-- 🛠️ Experienced with React, Node.js, Express, PostgreSQL, GraphQL, TypeORM, and UI libraries like MUI and Chakra UI  
-- 🎨 Currently learning UI/UX to better understand design systems and interaction patterns  
+- 🛠️ Experienced with React, Node.js, Express, PostgreSQL, GraphQL, TypeORM, and UI libraries like MUI and Chakra UI
+- 🎨 Currently learning UI/UX to better understand design systems and interaction patterns
 - 🤝 Open to collaborating on meaningful full-stack projects that make a difference
 
 Clean code is my priority — I aim to leave any codebase I touch better than I found it.
+
+Checkout my latest passion project [safe](https://github.com/IshaVenikar/safe)
 
 ---
 
