@@ -5,8 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi, I'm Isha!
 
-I'm a full-stack developer who works primarily with TypeScript to craft clean, premium user experiences — both on the front-end and behind the scenes.  
-I enjoy building polished interfaces and web applications that feel good to use.
+I'm a Full-stack TypeScript Developer who enjoys crafting clean, premium user experiences — both on the front-end and behind the scenes.  
 
 - 🛠️ Experienced with React, Node.js, Express, PostgreSQL, GraphQL, TypeORM, and UI libraries like MUI and Chakra UI
 - 🎨 Currently learning UI/UX to better understand design systems and interaction patterns
