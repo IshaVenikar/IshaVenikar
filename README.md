@@ -14,6 +14,7 @@ I'm a Full-stack TypeScript Developer who enjoys crafting clean, premium user ex
 Clean code is my priority — I aim to leave any codebase I touch better than I found it.
 
 Checkout my latest passion project [safe](https://github.com/IshaVenikar/safe)
+<!---
 
 ---
 
